@@ -17,6 +17,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
+ * DownloadManager示例
  * 参考：http://bbs.itheima.com/forum.php?mod=viewthread&tid=338253&extra=
  */
 public class MainActivity extends AppCompatActivity implements MyRecyclerViewAdapter.CallBack {
